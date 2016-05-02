@@ -1,3 +1,3 @@
 # EECS510
 
-Shikhar Mohan
+Shikhar Mohan | Nick Paras
