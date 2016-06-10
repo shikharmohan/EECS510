@@ -1,0 +1,1039 @@
+[I 20:10:27.837 NotebookApp] Serving notebooks from local directory: /home/nick/EECS510
+[I 20:10:27.838 NotebookApp] 0 active kernels 
+[I 20:10:27.838 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 20:10:27.838 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:11:37.263 NotebookApp] 302 GET / (165.124.144.247) 0.59ms
+[I 20:11:37.327 NotebookApp] 302 GET /tree (165.124.144.247) 0.61ms
+[I 20:11:41.023 NotebookApp] 302 POST /login?next=%2Ftree (165.124.144.247) 0.96ms
+[W 20:11:48.481 NotebookApp] Notebook mini-batch.ipynb is not trusted
+[I 20:11:50.688 NotebookApp] Kernel started: 29f6b3e5-9bf7-4ec6-9655-034d48c0060a
+[I 20:13:51.163 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:13:51.164 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:15:50.824 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:15:50.825 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:23:53.936 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:23:53.937 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:25:55.564 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:25:55.565 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:28:28.597 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:28:28.598 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:29:50.793 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:29:50.793 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:33:50.779 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:33:50.780 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:35:51.289 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:35:51.289 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:45:54.984 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:45:54.984 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:49:50.805 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:49:50.805 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:53:55.562 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:53:55.563 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:57:51.248 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:57:51.249 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 20:59:50.731 NotebookApp] Saving file at /mini-batch.ipynb
+[W 20:59:50.731 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 21:07:51.532 NotebookApp] Saving file at /mini-batch.ipynb
+[W 21:07:51.533 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 21:15:51.802 NotebookApp] Saving file at /mini-batch.ipynb
+[W 21:15:51.803 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 21:17:50.984 NotebookApp] Saving file at /mini-batch.ipynb
+[W 21:17:50.985 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 21:26:05.267 NotebookApp] Saving file at /mini-batch.ipynb
+[W 21:26:05.267 NotebookApp] Saving untrusted notebook mini-batch.ipynb
+[I 21:35:51.532 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:37:54.539 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:45:51.561 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:49:47.603 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:51:04.447 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:51:50.678 NotebookApp] Saving file at /mini-batch.ipynb
+[I 21:54:26.689 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 29f6b3e5-9bf7-4ec6-9655-034d48c0060a restarted
+[I 21:57:38.022 NotebookApp] Copying mini-batch.ipynb to 
+[I 21:57:43.132 NotebookApp] Kernel started: 2b81cae9-7853-4b8e-bf69-ffbe733fa3a5
+[I 21:57:50.230 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 21:58:00.144 NotebookApp] Kernel shutdown: 2b81cae9-7853-4b8e-bf69-ffbe733fa3a5
+[I 21:59:50.990 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:11:51.712 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:15:50.808 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:19:50.884 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:27:51.436 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:29:51.020 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:35:51.411 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:37:50.540 NotebookApp] Saving file at /mini-batch.ipynb
+[I 22:43:51.397 NotebookApp] Saving file at /mini-batch.ipynb
+[I 23:09:51.340 NotebookApp] Saving file at /mini-batch.ipynb
+[I 23:14:04.625 NotebookApp] Kernel interrupted: 29f6b3e5-9bf7-4ec6-9655-034d48c0060a
+[I 23:15:50.464 NotebookApp] Saving file at /mini-batch.ipynb
+[I 23:27:52.512 NotebookApp] Saving file at /mini-batch.ipynb
+[W 23:30:51.844 NotebookApp] WebSocket ping timeout after 119834 ms.
+[W 00:56:36.022 NotebookApp] delete /mini-batch-Copy1.ipynb
+[I 00:56:48.022 NotebookApp] Saving file at /mini-batch.ipynb
+[I 00:56:54.665 NotebookApp] Copying mini-batch.ipynb to 
+[I 00:57:04.440 NotebookApp] Kernel started: 5599365b-1553-4d15-8c5c-184f468ff6cb
+[I 00:59:06.179 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:01:07.027 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:02:28.955 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:03:06.957 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:05:08.289 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:07:07.353 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:09:07.377 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:20:27.741 NotebookApp] Copying mini-batch.ipynb to 
+[I 01:20:36.755 NotebookApp] Kernel started: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 01:21:07.526 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:22:42.448 NotebookApp] Saving file at /deeper net.ipynb
+[I 01:23:06.711 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:23:17.010 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:31:06.812 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:31:08.352 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:33:07.004 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:35:06.229 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:35:17.795 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:39:05.675 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:39:17.186 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:39:21.643 NotebookApp] Kernel interrupted: 29f6b3e5-9bf7-4ec6-9655-034d48c0060a
+[I 01:40:17.704 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 29f6b3e5-9bf7-4ec6-9655-034d48c0060a restarted
+[I 01:41:06.538 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 01:41:17.851 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:41:36.441 NotebookApp] Kernel interrupted: 29f6b3e5-9bf7-4ec6-9655-034d48c0060a
+[I 01:42:38.009 NotebookApp] Saving file at /deeper net.ipynb
+[I 01:43:15.689 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:44:39.075 NotebookApp] Saving file at /deeper net.ipynb
+[I 01:55:16.665 NotebookApp] Saving file at /mini-batch.ipynb
+[I 01:58:37.794 NotebookApp] Saving file at /deeper net.ipynb
+[I 01:59:16.307 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:02:38.339 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:06:39.027 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:07:16.979 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:16:39.490 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:17:17.333 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:18:37.735 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:25:18.955 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:28:40.281 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:30:38.882 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:37:17.596 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:40:38.974 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:44:39.656 NotebookApp] Saving file at /deeper net.ipynb
+[I 02:49:17.352 NotebookApp] Saving file at /mini-batch.ipynb
+[I 02:58:41.366 NotebookApp] Saving file at /deeper net.ipynb
+[W 03:03:35.161 NotebookApp] WebSocket ping timeout after 119904 ms.
+[W 03:03:37.349 NotebookApp] WebSocket ping timeout after 119923 ms.
+[W 03:03:37.886 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 03:14:20.366 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 03:14:27.284 NotebookApp] WebSocket ping timeout after 119905 ms.
+[W 03:14:36.260 NotebookApp] WebSocket ping timeout after 119912 ms.
+[I 03:55:58.943 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:05:01.432 NotebookApp] Kernel interrupted: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 04:05:46.791 NotebookApp] Kernel interrupted: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 04:05:46.930 NotebookApp] Kernel interrupted: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 04:05:47.058 NotebookApp] Kernel interrupted: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 04:05:47.205 NotebookApp] Kernel interrupted: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 04:05:56.512 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:07:57.114 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:19:57.681 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:23:56.015 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:25:56.802 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:37:57.717 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:41:56.516 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:43:56.780 NotebookApp] Saving file at /deeper net.ipynb
+[I 04:55:57.686 NotebookApp] Saving file at /deeper net.ipynb
+[I 05:01:56.818 NotebookApp] Saving file at /deeper net.ipynb
+[I 05:13:56.817 NotebookApp] Saving file at /deeper net.ipynb
+[I 05:15:37.831 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 05:15:42.107 NotebookApp] Kernel shutdown: 5599365b-1553-4d15-8c5c-184f468ff6cb
+[I 05:15:44.911 NotebookApp] Saving file at /mini-batch.ipynb
+[I 05:16:08.901 NotebookApp] Kernel shutdown: 29f6b3e5-9bf7-4ec6-9655-034d48c0060a
+[I 05:17:10.546 NotebookApp] Saving file at /deeper net.ipynb
+[I 05:17:31.791 NotebookApp] Copying deeper net.ipynb to 
+[I 05:18:46.288 NotebookApp] Kernel started: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 05:20:46.972 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:22:08.998 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:22:50.685 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:24:46.694 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:26:46.662 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:28:19.174 NotebookApp] Saving file at /deeper net.ipynb
+[I 05:28:31.422 NotebookApp] Kernel shutdown: ab36c74a-6929-4f70-bb4e-f022fcd686e0
+[I 05:28:46.394 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:29:34.289 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 8708fe21-8ed5-492b-87a6-79b438f107dc restarted
+[I 05:29:52.751 NotebookApp] Kernel restarted: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 05:30:46.393 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:32:46.384 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:34:46.374 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:36:46.399 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:38:46.373 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 05:38:55.533 NotebookApp] Kernel interrupted: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 05:38:55.683 NotebookApp] Kernel interrupted: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 05:38:55.854 NotebookApp] Kernel interrupted: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 05:40:46.372 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 05:56:02.771 NotebookApp] SSL Error on 31 ('185.49.14.190', 34601): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 05:58:47.301 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:00:46.408 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:00:49.775 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 8708fe21-8ed5-492b-87a6-79b438f107dc restarted
+[I 06:06:49.960 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:08:49.441 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:09:25.628 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:10:49.368 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:11:47.758 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:12:49.226 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:22:47.248 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:24:46.607 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:32:47.232 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:46:47.467 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 06:50:46.547 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:04:47.453 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:08:46.565 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:14:47.412 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:20:47.131 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 07:29:25.380 NotebookApp] SSL Error on 35 ('93.174.93.218', 37565): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:34.936 NotebookApp] SSL Error on 35 ('93.174.93.218', 58973): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:38.538 NotebookApp] SSL Error on 35 ('93.174.93.218', 40243): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 07:30:47.110 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:32:46.760 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:34:46.340 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:36:46.981 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:46:47.154 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 07:50:46.173 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:00:47.183 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:02:46.827 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:12:47.100 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:18:48.147 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:28:47.072 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:38:47.040 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:39:43.740 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:40:48.882 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:42:47.016 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 08:44:47.287 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 08:47:23.608 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 09:10:52.442 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 09:11:01.979 NotebookApp] Copying deeper net-Copy1.ipynb to 
+[I 09:11:13.106 NotebookApp] Kernel started: 0064eb91-360c-4960-9754-35b3d8294a7a
+[I 09:11:42.028 NotebookApp] Kernel shutdown: 8708fe21-8ed5-492b-87a6-79b438f107dc
+[I 09:13:18.843 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:15:18.569 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:17:20.479 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:19:18.943 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:21:12.315 NotebookApp] New terminal with automatic name: 1
+[I 09:21:17.731 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:31:17.160 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:33:15.736 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 09:35:17.932 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 10:37:19.380 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 11:53:23.064 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 13:09:17.542 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 14:25:18.987 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 16:05:17.155 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 16:25:20.349 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[I 16:26:27.579 NotebookApp] Kernel started: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 16:28:33.280 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:36:35.045 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:38:35.119 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:48:36.789 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:50:34.042 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:52:32.448 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:54:33.705 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 16:56:35.899 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:08:35.226 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:14:34.118 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:16:34.511 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:28:37.802 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:32:33.770 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:46:33.067 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:48:31.788 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 17:50:31.572 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 18:02:31.518 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 18:08:32.694 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 18:22:35.041 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 18:24:34.382 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 18:36:54.498 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 18:56:33.873 NotebookApp] SSL Error on 8 ('185.25.148.240', 35797): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:03:32.461 NotebookApp] SSL Error on 8 ('169.54.244.78', 39946): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 19:19:00.540 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 19:47:09.109 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 20:15:08.454 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 20:43:14.255 NotebookApp] WebSocket ping timeout after 119926 ms.
+[W 20:43:15.002 NotebookApp] WebSocket ping timeout after 119840 ms.
+[W 20:43:28.279 NotebookApp] WebSocket ping timeout after 119571 ms.
+[I 21:25:59.678 NotebookApp] Kernel shutdown: 0064eb91-360c-4960-9754-35b3d8294a7a
+[I 21:26:22.876 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:26:42.573 NotebookApp] EOF on FD 13; stopping reading
+[I 21:26:42.574 NotebookApp] Terminal 1 closed
+[I 21:26:46.729 NotebookApp] New terminal with automatic name: 1
+[I 21:27:27.772 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:27:27.936 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:27:28.131 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:04.355 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:04.521 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:04.685 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:04.845 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.015 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.173 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.317 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.488 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.656 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.825 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:05.983 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:06.152 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:06.321 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:06.489 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:29:19.026 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:31:02.271 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:31:07.013 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:33:45.353 NotebookApp] EOF on FD 24; stopping reading
+[I 21:33:45.354 NotebookApp] Terminal 1 closed
+[I 21:33:48.578 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54 restarted
+[I 21:39:25.089 NotebookApp] New terminal with automatic name: 1
+[I 21:40:22.789 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:45:01.825 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:46:25.725 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:49:41.951 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:52:38.452 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:54:00.848 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 21:56:35.387 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 21:59:01.917 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:03:40.345 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:03:41.933 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:04:27.955 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:04:40.490 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 22:06:56.379 NotebookApp] Kernel interrupted: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 22:08:21.792 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:09:04.259 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:10:28.759 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:11:12.654 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:13:01.762 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:17:42.178 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:22:21.857 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:40:45.548 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[I 22:40:54.978 NotebookApp] Kernel shutdown: 7a7bc51e-ed2f-47a4-899f-49bce3fbdc54
+[I 22:41:05.780 NotebookApp] Copying deeper net-Copy1.ipynb to 
+[W 22:41:05.882 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[W 22:41:05.961 NotebookApp] Saving untrusted notebook deeper net-Copy3.ipynb
+[W 22:41:18.460 NotebookApp] Notebook deeper net-Copy3.ipynb is not trusted
+[I 22:41:23.278 NotebookApp] Kernel started: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 22:43:24.286 NotebookApp] Saving file at /Seasonality.ipynb
+[W 22:43:24.287 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 22:57:24.743 NotebookApp] Saving file at /Seasonality.ipynb
+[W 22:57:24.745 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 22:59:23.603 NotebookApp] Saving file at /Seasonality.ipynb
+[W 22:59:23.604 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:03:24.144 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:03:24.145 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:05:23.622 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:05:23.624 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:06:55.612 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:06:55.613 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:07:23.729 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:07:23.730 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:08:04.173 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:08:04.175 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:09:23.619 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:09:23.621 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:11:23.594 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:11:23.595 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:13:24.232 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:13:24.233 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:13:49.500 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:13:49.501 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:14:03.721 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:14:03.722 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:15:24.216 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:15:24.217 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:20:59.024 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:20:59.025 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:21:23.589 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:21:23.590 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:33:24.575 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:33:24.577 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:33:59.203 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:33:59.204 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:35:23.559 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:35:23.560 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:35:28.718 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:35:28.719 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:35:38.920 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:35:38.921 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:37:23.788 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:37:23.789 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:37:53.184 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:37:53.185 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:39:23.555 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:39:23.556 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 23:49:24.522 NotebookApp] Saving file at /Seasonality.ipynb
+[W 23:49:24.523 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[W 23:52:54.245 NotebookApp] WebSocket ping timeout after 119512 ms.
+[W 23:52:56.873 NotebookApp] WebSocket ping timeout after 118128 ms.
+[I 00:07:23.486 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:07:23.487 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 00:10:34.471 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:10:34.472 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 00:16:55.029 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:16:55.030 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[W 00:27:28.453 NotebookApp] SSL Error on 13 ('106.187.52.160', 53928): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:27:28.714 NotebookApp] SSL Error on 13 ('106.187.52.160', 55302): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 00:32:45.298 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:32:45.300 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 00:35:54.333 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:35:54.335 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 00:48:35.272 NotebookApp] Saving file at /Seasonality.ipynb
+[W 00:48:35.274 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[W 00:56:52.792 NotebookApp] WebSocket ping timeout after 119875 ms.
+[I 01:03:07.732 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:07.797 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:07.808 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:07.856 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:07.964 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:08.151 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:08.305 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:03:08.468 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:04:10.517 NotebookApp] Saving file at /Seasonality.ipynb
+[W 01:04:10.517 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 01:07:07.210 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:07.416 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:07.609 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:07.795 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:07.980 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:08.156 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:08.353 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:08.526 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:08.744 NotebookApp] Kernel interrupted: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 01:07:27.675 NotebookApp] Copying Seasonality.ipynb to 
+[W 01:07:27.759 NotebookApp] Notebook Seasonality.ipynb is not trusted
+[W 01:07:27.818 NotebookApp] Saving untrusted notebook Seasonality-Copy1.ipynb
+[W 01:07:33.939 NotebookApp] Notebook Seasonality-Copy1.ipynb is not trusted
+[I 01:07:38.652 NotebookApp] Kernel started: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 01:09:39.279 NotebookApp] Saving file at /Seasonality-Copy1.ipynb
+[W 01:09:39.280 NotebookApp] Saving untrusted notebook Seasonality-Copy1.ipynb
+[I 01:11:38.904 NotebookApp] Saving file at /Seasonality-Copy1.ipynb
+[W 01:11:38.905 NotebookApp] Saving untrusted notebook Seasonality-Copy1.ipynb
+[I 01:13:38.846 NotebookApp] Saving file at /Seasonality-Copy1.ipynb
+[W 01:13:38.847 NotebookApp] Saving untrusted notebook Seasonality-Copy1.ipynb
+[I 01:23:39.545 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 01:23:39.545 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 01:25:39.017 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 01:25:39.018 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 01:37:40.006 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 01:37:40.007 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[W 01:39:15.586 NotebookApp] WebSocket ping timeout after 119943 ms.
+[W 01:39:39.789 NotebookApp] WebSocket ping timeout after 119934 ms.
+[I 01:55:37.965 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 01:55:37.966 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:05:37.984 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:05:37.985 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:08:05.817 NotebookApp] Kernel interrupted: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 02:08:05.986 NotebookApp] Kernel interrupted: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 02:08:06.132 NotebookApp] Kernel interrupted: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 02:08:06.299 NotebookApp] Kernel interrupted: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 02:09:37.098 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:09:37.099 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:17:38.086 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:17:38.087 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:19:36.972 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:19:36.973 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:21:37.032 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:21:37.033 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:27:37.860 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:27:37.860 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:43:37.968 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:43:37.969 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 02:57:37.960 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 02:57:37.961 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 03:03:37.935 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 03:03:37.936 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 03:17:37.921 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 03:17:37.922 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[W 03:20:25.073 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 03:20:46.495 NotebookApp] WebSocket ping timeout after 119833 ms.
+[W 03:53:49.755 NotebookApp] SSL Error on 9 ('93.174.93.218', 60669): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:53:51.321 NotebookApp] SSL Error on 9 ('93.174.93.218', 32936): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:53:56.901 NotebookApp] SSL Error on 9 ('93.174.93.218', 45164): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 04:04:45.696 NotebookApp] New terminal with automatic name: 2
+[I 04:05:15.028 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 04:05:15.029 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 04:06:23.051 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 04:06:23.052 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 04:06:43.902 NotebookApp] Kernel shutdown: 5e2d0edf-4bfd-42a9-8241-3c1c8de37c1e
+[I 04:06:53.865 NotebookApp] Saving file at /Seasonality-Momentum.ipynb
+[W 04:06:53.866 NotebookApp] Saving untrusted notebook Seasonality-Momentum.ipynb
+[I 04:07:03.595 NotebookApp] Copying Seasonality-Momentum.ipynb to 
+[W 04:07:03.681 NotebookApp] Notebook Seasonality-Momentum.ipynb is not trusted
+[W 04:07:03.743 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[W 04:07:11.552 NotebookApp] Notebook Seasonality-Momentum-Copy1.ipynb is not trusted
+[I 04:07:16.149 NotebookApp] Kernel started: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 04:09:17.112 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:09:17.113 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:13:14.431 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:13:14.432 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:15:14.406 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:15:14.407 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:27:15.423 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:27:15.424 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:37:14.424 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:37:14.425 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:39:13.466 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:39:13.467 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:41:14.092 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:41:14.093 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:43:14.118 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:43:14.119 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:51:15.373 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:51:15.374 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 04:53:13.349 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 04:53:13.350 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:07:14.356 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:07:14.357 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:09:13.322 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:09:13.323 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:11:13.980 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:11:13.981 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:11:19.512 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:11:19.513 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:13:13.963 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:13:13.964 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:15:14.023 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:15:14.024 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:27:14.301 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:27:14.302 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:35:14.277 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:35:14.278 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:39:13.162 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:39:13.163 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:43:13.156 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:43:13.156 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:55:14.003 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:55:14.003 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 05:57:13.179 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 05:57:13.180 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 06:13:14.005 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 06:13:14.006 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 06:15:13.129 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 06:15:13.130 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 06:23:13.977 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 06:23:13.978 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 06:25:13.155 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 06:25:13.156 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[W 06:29:22.270 NotebookApp] SSL Error on 9 ('185.25.148.240', 50311): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 06:33:13.981 NotebookApp] Saving file at /Seasonality-Momentum-Copy1.ipynb
+[W 06:33:13.982 NotebookApp] Saving untrusted notebook Seasonality-Momentum-Copy1.ipynb
+[I 06:39:41.326 NotebookApp] Copying Final-Net-Momentum.ipynb to 
+[W 06:39:41.378 NotebookApp] Notebook Final-Net-Momentum.ipynb is not trusted
+[W 06:39:41.417 NotebookApp] Saving untrusted notebook Final-Net-Momentum-Copy1.ipynb
+[W 06:39:47.308 NotebookApp] Notebook Final-Net-Momentum-Copy1.ipynb is not trusted
+[I 06:39:49.865 NotebookApp] Kernel started: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 06:40:24.570 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 06:40:24.570 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 06:41:18.549 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 06:41:51.535 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 06:41:51.536 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 06:43:49.622 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 06:43:49.623 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 06:53:48.935 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 06:53:48.936 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:01:49.104 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 07:01:49.105 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:09:48.985 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 07:09:48.985 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:31:48.852 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 07:31:48.852 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:40:17.492 NotebookApp] Copying Final-Net-SGD.ipynb to 
+[W 07:40:17.565 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[W 07:40:17.625 NotebookApp] Saving untrusted notebook Final-Net-SGD-Copy1.ipynb
+[W 07:40:27.479 NotebookApp] Notebook Final-Net-SGD-Copy1.ipynb is not trusted
+[I 07:40:30.708 NotebookApp] Kernel started: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:42:31.199 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 07:42:31.199 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 07:44:30.993 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 07:44:30.994 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 07:46:26.431 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:28.425 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:28.590 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:28.766 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:28.933 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:29.183 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:29.560 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 07:46:30.856 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 07:46:30.857 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 07:47:48.047 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 07:47:48.048 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:48:31.356 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 07:48:31.357 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 07:49:13.530 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 07:49:13.531 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 07:57:48.800 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 07:57:48.800 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 07:59:13.001 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 07:59:13.002 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 08:00:31.338 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 08:00:31.339 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[W 08:03:46.664 NotebookApp] WebSocket ping timeout after 119854 ms.
+[W 08:03:48.603 NotebookApp] WebSocket ping timeout after 119847 ms.
+[W 08:03:50.428 NotebookApp] WebSocket ping timeout after 119932 ms.
+[W 08:04:01.277 NotebookApp] WebSocket ping timeout after 119926 ms.
+[I 08:21:47.901 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 08:21:47.902 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 08:22:21.422 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:21.575 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:21.779 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:21.955 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:22.151 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:22.336 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:22.528 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:22.733 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:22:22.942 NotebookApp] Kernel interrupted: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[I 08:23:44.472 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 08:23:44.472 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 08:24:18.709 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 08:24:18.710 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 08:25:35.368 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:35.580 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:35.781 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:35.961 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:36.136 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:36.357 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:36.530 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:25:36.721 NotebookApp] Kernel interrupted: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[I 08:26:19.614 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 08:26:19.614 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 08:26:32.256 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 08:26:32.419 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 08:26:32.591 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 08:26:32.741 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 08:26:32.966 NotebookApp] Kernel interrupted: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 08:27:02.000 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 08:27:02.001 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 08:37:02.803 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 08:37:02.804 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 08:39:01.538 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 08:39:01.539 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 09:21:48.021 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 09:21:48.022 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 09:24:20.595 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 09:24:20.596 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 09:39:02.986 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 09:39:02.986 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 09:51:45.473 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 09:51:45.473 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 09:52:21.609 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 09:52:21.609 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 10:07:05.385 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 10:07:05.387 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 10:18:24.325 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 10:18:24.326 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 10:31:03.289 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 10:31:03.290 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 10:55:04.736 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 10:55:04.736 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 11:19:02.714 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 11:19:02.715 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 15:25:03.345 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 15:25:03.346 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[W 15:55:44.927 NotebookApp] WebSocket ping timeout after 119508 ms.
+[W 15:56:03.838 NotebookApp] WebSocket ping timeout after 119867 ms.
+[W 15:56:06.931 NotebookApp] WebSocket ping timeout after 119683 ms.
+[W 16:02:17.720 NotebookApp] SSL Error on 8 ('165.124.144.177', 32924): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:02:17.781 NotebookApp] SSL Error on 15 ('165.124.144.177', 42400): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:02:17.895 NotebookApp] SSL Error on 8 ('165.124.144.177', 52361): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:02:18.292 NotebookApp] SSL Error on 8 ('165.124.144.177', 33308): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 16:02:31.702 NotebookApp] 302 GET / (165.124.144.177) 0.49ms
+[I 16:02:31.776 NotebookApp] 302 GET /tree (165.124.144.177) 0.75ms
+[I 16:02:38.307 NotebookApp] 302 POST /login?next=%2Ftree (165.124.144.177) 0.82ms
+[W 16:02:58.635 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[I 16:05:04.536 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:05:04.537 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:07:04.205 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:07:04.205 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[W 16:09:20.000 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[W 16:09:58.679 NotebookApp] Notebook Seasonality.ipynb is not trusted
+[I 16:10:01.649 NotebookApp] Kernel started: 733842bb-256d-4016-bd12-a00be9ef17ba
+[I 16:10:09.909 NotebookApp] Kernel started: afa2da63-f226-450a-9fa6-7ebb9e1c788c
+[I 16:10:25.244 NotebookApp] Kernel shutdown: 733842bb-256d-4016-bd12-a00be9ef17ba
+[W 16:10:38.289 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[I 16:10:49.759 NotebookApp] Kernel started: a71c4a78-1ba0-4320-9f4f-d8b3e7e7816b
+[I 16:12:11.376 NotebookApp] Saving file at /mini-batch.ipynb
+[I 16:12:44.033 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:12:44.033 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:14:12.777 NotebookApp] Copying Final-Net-SGD-Dropout.ipynb to 
+[W 16:14:12.835 NotebookApp] Notebook Final-Net-SGD-Dropout.ipynb is not trusted
+[W 16:14:12.878 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:14:20.279 NotebookApp] Notebook Final-Net-SGD-Dropout-Copy1.ipynb is not trusted
+[I 16:14:23.898 NotebookApp] Kernel started: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 16:14:41.076 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:14:41.078 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:16:24.807 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:16:24.808 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:16:40.109 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:16:40.109 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:18:03.028 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:18:03.029 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:18:40.076 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:18:40.077 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:20:40.085 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:20:40.087 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:22:24.602 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:22:24.603 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:22:40.112 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:22:40.112 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:24:24.102 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:24:24.103 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:24:40.087 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:24:40.087 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:26:40.156 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:26:40.157 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:28:26.735 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:28:26.739 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:28:28.864 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 229da3ee-205f-4a1c-b5a6-787de0c7d880 restarted
+[I 16:28:40.802 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:28:40.803 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:30:24.054 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:30:24.055 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:30:40.422 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:30:40.423 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:32:37.882 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 229da3ee-205f-4a1c-b5a6-787de0c7d880 restarted
+[I 16:32:40.732 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:32:40.733 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:33:03.102 NotebookApp] Saving file at /Final-Net-Momentum.ipynb
+[W 16:33:03.103 NotebookApp] Saving untrusted notebook Final-Net-Momentum.ipynb
+[I 16:33:11.025 NotebookApp] Kernel shutdown: 13fd898b-f722-4a5c-8b8e-2468ffbd11d1
+[W 16:33:11.026 NotebookApp] zmq message arrived on closed channel
+[I 16:33:22.822 NotebookApp] Kernel shutdown: afa2da63-f226-450a-9fa6-7ebb9e1c788c
+[I 16:33:22.980 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 16:33:22.981 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 16:33:25.680 NotebookApp] Kernel shutdown: 6a15d81b-6aa6-4bb4-9b93-bf74461bc477
+[I 16:33:32.833 NotebookApp] New terminal with automatic name: 3
+[I 16:33:34.910 NotebookApp] EOF on FD 25; stopping reading
+[I 16:33:34.911 NotebookApp] Terminal 2 closed
+[I 16:33:42.046 NotebookApp] EOF on FD 34; stopping reading
+[I 16:33:42.046 NotebookApp] Terminal 1 closed
+[I 16:34:31.611 NotebookApp] New terminal with automatic name: 1
+[I 16:34:40.657 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:34:40.657 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[W 16:36:24.450 NotebookApp] Notebook Final-Net-SGD-Dropout-Copy1.ipynb is not trusted
+[I 16:36:24.580 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:36:24.581 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:36:41.244 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:36:41.246 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:38:24.490 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 16:38:24.492 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 16:38:38.707 NotebookApp] Kernel shutdown: 96b55d99-3292-4faf-8530-adb02c2b7acf
+[I 16:38:47.549 NotebookApp] Kernel shutdown: a71c4a78-1ba0-4320-9f4f-d8b3e7e7816b
+[I 16:38:49.553 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:38:49.554 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 16:40:40.181 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 16:40:40.182 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[W 16:43:46.736 NotebookApp] Notebook softmax_notebook.ipynb is not trusted
+[I 16:43:48.008 NotebookApp] Kernel started: 55a3693f-7462-4bef-84d5-43bde42874d4
+[I 16:44:02.406 NotebookApp] Kernel shutdown: 55a3693f-7462-4bef-84d5-43bde42874d4
+[W 16:44:14.532 NotebookApp] Notebook notebook2.ipynb is not trusted
+[I 16:44:15.219 NotebookApp] Kernel started: f5a7f09a-1da3-4081-8f8f-f2a4ec7fc4db
+[I 16:44:32.611 NotebookApp] Kernel shutdown: f5a7f09a-1da3-4081-8f8f-f2a4ec7fc4db
+[W 16:44:32.613 NotebookApp] zmq message arrived on closed channel
+[I 16:44:49.413 NotebookApp] Kernel started: 630610e2-6fb7-42b4-a360-8befaf3cfcf2
+[I 16:46:50.506 NotebookApp] Saving file at /notebook1.ipynb
+[W 16:52:44.309 NotebookApp] WebSocket ping timeout after 119942 ms.
+[E 16:52:44.657 NotebookApp] Uncaught exception GET /api/kernels/229da3ee-205f-4a1c-b5a6-787de0c7d880/channels?session_id=8C134411B8C04C2C8B1C52A6F421A419 (165.124.144.177)
+    HTTPServerRequest(protocol='https', host='52.11.8.147:8888', method='GET', uri='/api/kernels/229da3ee-205f-4a1c-b5a6-787de0c7d880/channels?session_id=8C134411B8C04C2C8B1C52A6F421A419', version='HTTP/1.1', remote_ip='165.124.144.177', headers={'Origin': 'https://52.11.8.147:8888', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8,es;q=0.6,ms;q=0.4', 'Accept-Encoding': 'gzip, deflate, sdch, br', 'Sec-Websocket-Version': '13', 'Host': '52.11.8.147:8888', 'Sec-Websocket-Key': '6eubdlyEnLbQTrHyjG/f9g==', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': 'username-52-11-8-147-8887="2|1:0|10:1465317125|25:username-52-11-8-147-8887|48:NjQ2OWNkMmEtMjk2Yy00NDZhLWEwN2YtMzAwY2YxZjU1Zjli|a778ad8c0c838713c871613178b241a15b12bde8aedd2e9b68137d5b2fc6872f"; username-52-11-8-147-8888="2|1:0|10:1465488158|25:username-52-11-8-147-8888|48:ZDk0OTgzZWUtOGYwNS00MzY4LWIzNjAtMzJiMjExNWRlOWQ3|489ddff32f6d10637be0c885e6cba835bef919e722082927b294e0ee1e535b07"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 253, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[W 17:00:28.573 NotebookApp] Notebook softmax_notebook.ipynb is not trusted
+[I 17:00:30.066 NotebookApp] Kernel started: 5c47d895-51b2-45dc-a186-41323a780f41
+[I 17:01:36.076 NotebookApp] Kernel shutdown: 5c47d895-51b2-45dc-a186-41323a780f41
+[I 17:04:06.977 NotebookApp] Kernel shutdown: 229da3ee-205f-4a1c-b5a6-787de0c7d880
+[W 17:05:27.795 NotebookApp] Notebook notebook2.ipynb is not trusted
+[I 17:05:28.605 NotebookApp] Kernel started: b49c6e0e-61ec-478a-a961-ef5db1045d4a
+[I 17:06:27.351 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:06:27.352 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:07:28.729 NotebookApp] Saving file at /notebook2.ipynb
+[W 17:07:28.729 NotebookApp] Saving untrusted notebook notebook2.ipynb
+[I 17:08:26.946 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:08:26.948 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:13:24.120 NotebookApp] New terminal with automatic name: 2
+[I 17:15:28.747 NotebookApp] Saving file at /notebook2.ipynb
+[W 17:15:28.749 NotebookApp] Saving untrusted notebook notebook2.ipynb
+[I 17:16:28.109 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:16:28.110 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:17:28.734 NotebookApp] Saving file at /Most Popular.ipynb
+[W 17:17:28.735 NotebookApp] Saving untrusted notebook Most Popular.ipynb
+[I 17:18:26.922 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:18:26.923 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:19:13.941 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:19:13.941 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:19:28.721 NotebookApp] Saving file at /Most Popular.ipynb
+[W 17:19:28.721 NotebookApp] Saving untrusted notebook Most Popular.ipynb
+[I 17:20:27.310 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:20:27.310 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:21:28.778 NotebookApp] Saving file at /Most Popular.ipynb
+[W 17:21:28.778 NotebookApp] Saving untrusted notebook Most Popular.ipynb
+[I 17:23:29.145 NotebookApp] Saving file at /Most Popular.ipynb
+[W 17:23:29.145 NotebookApp] Saving untrusted notebook Most Popular.ipynb
+[I 17:26:28.862 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:26:28.863 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:28:26.915 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:28:26.915 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:33:39.315 NotebookApp] SSL Error on 13 ('64.31.1.3', 36196): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 17:36:27.773 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:36:27.774 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:38:27.418 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:38:27.419 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:42:34.587 NotebookApp] WebSocket ping timeout after 119910 ms.
+[W 17:42:49.869 NotebookApp] WebSocket ping timeout after 119520 ms.
+[W 17:42:55.554 NotebookApp] WebSocket ping timeout after 119883 ms.
+[I 17:44:47.331 NotebookApp] Kernel interrupted: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 17:44:47.391 NotebookApp] Kernel interrupted: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 17:44:47.642 NotebookApp] Kernel interrupted: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 17:44:47.842 NotebookApp] Kernel interrupted: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 17:44:48.026 NotebookApp] Kernel interrupted: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 17:46:13.023 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:46:13.024 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:53:32.241 NotebookApp] SSL Error on 15 ('185.25.148.240', 53725): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 17:54:28.150 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:54:28.150 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:56:27.242 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:56:27.242 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 17:58:26.807 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 17:58:26.808 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 18:00:27.169 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 18:00:27.170 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 18:06:28.112 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 18:06:28.113 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 18:07:54.257 NotebookApp] Copying Final-Net-SGD.ipynb to 
+[W 18:07:54.315 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[W 18:07:54.365 NotebookApp] Saving untrusted notebook Final-Net-SGD-Copy1.ipynb
+[W 18:08:01.740 NotebookApp] Notebook Final-Net-SGD-Copy1.ipynb is not trusted
+[I 18:08:05.821 NotebookApp] Kernel started: 04716cb5-c326-430c-8d51-27344be8f841
+[I 18:10:06.797 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:10:06.799 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:16:06.952 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:16:06.953 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:17:08.544 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:17:08.545 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:18:05.960 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:18:05.961 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:30:06.872 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:30:06.873 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:40:07.259 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:40:07.260 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:48:06.886 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:48:06.887 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:50:06.761 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:50:06.762 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:56:06.871 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:56:06.872 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:56:47.778 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:56:47.778 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 18:58:06.060 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 18:58:06.061 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 19:10:07.016 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:10:07.016 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 19:16:06.894 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:16:06.895 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[E 19:16:07.133 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/iostream.py", line 519, in _handle_events
+        self.error = self.get_fd_error()
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/iostream.py", line 1007, in get_fd_error
+        socket.SO_ERROR)
+      File "/home/nick/anaconda2/lib/python2.7/socket.py", line 228, in meth
+        return getattr(self._sock,name)(*args)
+    error: [Errno 9] Bad file descriptor
+[E 19:16:07.141 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/ioloop.py", line 883, in start
+        handler_func(fd_obj, events)
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/stack_context.py", line 275, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/iostream.py", line 519, in _handle_events
+        self.error = self.get_fd_error()
+      File "/home/nick/anaconda2/lib/python2.7/site-packages/tornado/iostream.py", line 1007, in get_fd_error
+        socket.SO_ERROR)
+      File "/home/nick/anaconda2/lib/python2.7/socket.py", line 228, in meth
+        return getattr(self._sock,name)(*args)
+    error: [Errno 9] Bad file descriptor
+[I 19:18:06.406 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:18:06.407 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 19:26:07.018 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:26:07.019 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 19:31:36.401 NotebookApp] WebSocket ping timeout after 119893 ms.
+[W 19:31:36.432 NotebookApp] WebSocket ping timeout after 119923 ms.
+[I 19:44:20.675 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:44:20.676 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 19:44:39.261 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 19:44:39.382 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 19:44:39.732 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 19:44:39.797 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 19:44:40.255 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 19:46:20.088 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:46:20.089 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 19:46:52.697 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[I 19:47:11.906 NotebookApp] Kernel started: 8005f317-83f3-4534-a0ff-eb34346f3440
+[W 19:47:27.702 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[I 19:47:54.786 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 19:47:54.787 NotebookApp] Saving untrusted notebook deeper net-Copy1.ipynb
+[I 19:48:36.890 NotebookApp] Kernel shutdown: 8005f317-83f3-4534-a0ff-eb34346f3440
+[I 19:49:18.561 NotebookApp] Kernel started: ec919f95-37f0-4deb-8d73-46c359dbe178
+[I 19:49:40.915 NotebookApp] Kernel shutdown: ec919f95-37f0-4deb-8d73-46c359dbe178
+[I 19:50:58.075 NotebookApp] Kernel started: 40360db7-54cd-4839-bf86-fc894002f868
+[I 19:52:21.255 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 19:52:21.257 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 19:52:58.778 NotebookApp] Saving file at /deeper net-Copy2.ipynb
+[W 19:57:00.981 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 19:57:04.753 NotebookApp] WebSocket ping timeout after 119880 ms.
+[W 19:57:06.964 NotebookApp] WebSocket ping timeout after 119835 ms.
+[I 20:07:30.610 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:07:30.611 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:11:18.217 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 20:11:18.412 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 20:11:18.563 NotebookApp] Kernel interrupted: 04716cb5-c326-430c-8d51-27344be8f841
+[I 20:13:27.051 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:13:27.051 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:15:07.972 NotebookApp] 302 GET / (165.124.144.177) 0.63ms
+[W 20:15:48.016 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[I 20:15:53.290 NotebookApp] Kernel started: 237651db-ca1a-4154-aaf7-360c5c44219c
+[I 20:16:35.027 NotebookApp] Kernel started: 253288db-e547-4a60-b43d-246d6cc5067b
+[I 20:18:36.178 NotebookApp] Saving file at /mini-batch.ipynb
+[I 20:19:26.765 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:19:26.766 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:19:47.392 NotebookApp] Saving file at /Final-Net-SGD-Dropout-Copy1.ipynb
+[W 20:19:47.393 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout-Copy1.ipynb
+[I 20:23:26.727 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:23:26.728 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 20:23:41.281 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[I 20:25:45.599 NotebookApp] Saving file at /Final-Net-SGD.ipynb
+[W 20:25:45.600 NotebookApp] Saving untrusted notebook Final-Net-SGD.ipynb
+[I 20:31:26.958 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:31:26.959 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 20:33:16.596 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[I 20:33:20.648 NotebookApp] Kernel started: 9b827e43-fe94-4f73-b4f5-170ae393c272
+[I 20:33:24.435 NotebookApp] Kernel started: 5d1e2371-1d4f-4b98-ba8a-5f952537ffba
+[I 20:33:26.731 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:33:26.732 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:35:22.107 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 20:35:22.108 NotebookApp] Saving untrusted notebook deeper net-Copy1.ipynb
+[I 20:35:25.274 NotebookApp] Saving file at /deeper net.ipynb
+[I 20:39:26.792 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:39:26.793 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:41:26.115 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:41:26.115 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 20:44:28.300 NotebookApp] Notebook Seasonality.ipynb is not trusted
+[I 20:44:31.870 NotebookApp] Kernel started: 76c06ece-a525-4efb-a8db-c23af79cbf4e
+[I 20:46:11.953 NotebookApp] 302 GET / (165.124.144.177) 0.39ms
+[I 20:46:18.712 NotebookApp] Kernel started: fa339f3b-b224-4850-8a79-e438bb8b1af5
+[I 20:46:32.717 NotebookApp] Saving file at /Seasonality.ipynb
+[W 20:46:32.718 NotebookApp] Saving untrusted notebook Seasonality.ipynb
+[I 20:48:19.802 NotebookApp] Saving file at /mini-batch-Copy1.ipynb
+[I 20:49:26.331 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:49:26.332 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:57:27.230 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:57:27.230 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 20:59:26.999 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 20:59:27.000 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 20:59:57.327 NotebookApp] Notebook Final-Net-SGD.ipynb is not trusted
+[I 21:00:07.757 NotebookApp] Kernel shutdown: 40360db7-54cd-4839-bf86-fc894002f868
+[I 21:00:18.672 NotebookApp] Kernel shutdown: fa339f3b-b224-4850-8a79-e438bb8b1af5
+[I 21:00:24.219 NotebookApp] Kernel shutdown: 76c06ece-a525-4efb-a8db-c23af79cbf4e
+[I 21:00:29.238 NotebookApp] Kernel shutdown: 5d1e2371-1d4f-4b98-ba8a-5f952537ffba
+[I 21:00:33.796 NotebookApp] Kernel shutdown: 9b827e43-fe94-4f73-b4f5-170ae393c272
+[I 21:00:43.474 NotebookApp] Kernel shutdown: 9d3ec079-f23e-44c4-85d3-59762a75083a
+[I 21:07:27.240 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 21:07:27.241 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 21:11:26.029 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 21:11:26.029 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[W 21:12:50.309 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[I 21:12:54.148 NotebookApp] Kernel started: 978a6bb7-33cf-404d-b5bc-ecc0cd48a764
+[I 21:14:55.864 NotebookApp] Saving file at /deeper net-Copy1.ipynb
+[W 21:14:55.866 NotebookApp] Saving untrusted notebook deeper net-Copy1.ipynb
+[I 21:15:26.018 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 21:15:26.018 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 21:17:25.978 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[W 21:17:25.979 NotebookApp] Saving untrusted notebook Final-Net-SGD-ReLUs.ipynb
+[I 21:19:25.972 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:19:57.449 NotebookApp] Kernel shutdown: 630610e2-6fb7-42b4-a360-8befaf3cfcf2
+[I 21:20:08.022 NotebookApp] Kernel shutdown: 978a6bb7-33cf-404d-b5bc-ecc0cd48a764
+[I 21:20:14.059 NotebookApp] New terminal with automatic name: 4
+[I 21:20:23.852 NotebookApp] Kernel shutdown: 237651db-ca1a-4154-aaf7-360c5c44219c
+[I 21:20:50.023 NotebookApp] Kernel shutdown: 253288db-e547-4a60-b43d-246d6cc5067b
+[I 21:20:51.122 NotebookApp] Kernel shutdown: b49c6e0e-61ec-478a-a961-ef5db1045d4a
+[I 21:21:26.477 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:23:26.053 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:24:47.469 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:25:26.018 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:26:17.317 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:26:35.925 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:27:25.970 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:29:25.963 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:32:31.540 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:32:32.821 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 04716cb5-c326-430c-8d51-27344be8f841 restarted
+[W 21:32:54.378 NotebookApp] Notebook Final-Net-SGD-Dropout.ipynb is not trusted
+[I 21:32:57.391 NotebookApp] Kernel started: e0dcab5a-f6f4-4c0a-80cc-0c23f4667d7b
+[I 21:34:58.612 NotebookApp] Saving file at /Final-Net-SGD-Dropout.ipynb
+[W 21:34:58.614 NotebookApp] Saving untrusted notebook Final-Net-SGD-Dropout.ipynb
+[I 21:39:13.910 NotebookApp] 302 GET / (165.124.144.177) 0.36ms
+[I 21:39:17.153 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:40:17.748 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 21:43:31.927 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 22:05:33.131 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 22:06:05.783 NotebookApp] Kernel started: 5f3ed2e1-f6de-40dd-a66d-eb60b2cf0f53
+[I 22:06:16.564 NotebookApp] Kernel shutdown: 5f3ed2e1-f6de-40dd-a66d-eb60b2cf0f53
+[I 22:06:29.565 NotebookApp] Kernel started: 3a09fa2e-d354-4a34-b59f-7ec40ed12c1a
+[I 22:08:30.110 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:10:31.557 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:12:29.796 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:12:37.801 NotebookApp] Saving file at /Final-Net-SGD-ReLUs.ipynb
+[I 22:13:47.841 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 04716cb5-c326-430c-8d51-27344be8f841 restarted
+WARNING:root:kernel 04716cb5-c326-430c-8d51-27344be8f841 restarted
+[I 22:14:30.291 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:15:03.882 NotebookApp] Kernel shutdown: e0dcab5a-f6f4-4c0a-80cc-0c23f4667d7b
+[I 22:15:04.285 NotebookApp] Kernel shutdown: 04716cb5-c326-430c-8d51-27344be8f841
+[I 22:26:31.078 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:30:29.842 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:38:31.078 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:46:30.771 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:48:29.900 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 22:54:31.178 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:08:30.395 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[W 23:09:42.428 NotebookApp] Notebook deeper net-Copy1.ipynb is not trusted
+[I 23:09:48.753 NotebookApp] Kernel started: 9f069e45-707e-4f3e-938f-6e458d6783fa
+[I 23:10:25.833 NotebookApp] Saving file at /2 Layer Neural Net (With Clicks).ipynb
+[W 23:10:25.834 NotebookApp] Saving untrusted notebook 2 Layer Neural Net (With Clicks).ipynb
+[I 23:10:52.894 NotebookApp] Kernel started: dd4c2d84-c777-4039-9cd0-560d3225aca6
+[I 23:11:01.471 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[W 23:11:46.885 NotebookApp] Notebook Final-Net-Momentum.ipynb is not trusted
+[I 23:11:53.279 NotebookApp] Kernel started: feca9ad3-3c12-4eed-8fec-a6d6b777eb24
+[I 23:12:15.278 NotebookApp] Kernel started: aca2ed1f-3cce-436d-9422-c7bd6580c537
+[W 23:12:48.098 NotebookApp] Notebook softmax_notebook.ipynb is not trusted
+[I 23:12:50.032 NotebookApp] Kernel started: 831431c1-2ada-466d-8852-57697cd865d2
+[W 23:13:12.668 NotebookApp] Notebook Most Popular.ipynb is not trusted
+[I 23:13:13.844 NotebookApp] Kernel started: 5011cfd0-0ff4-4716-ae5b-c7e57f8cda26
+[W 23:15:14.016 NotebookApp] Notebook 2 Layer Neural Net (With Clicks).ipynb is not trusted
+[I 23:15:27.461 NotebookApp] Kernel shutdown: 9f069e45-707e-4f3e-938f-6e458d6783fa
+[I 23:15:27.865 NotebookApp] Kernel shutdown: 831431c1-2ada-466d-8852-57697cd865d2
+[I 23:15:28.268 NotebookApp] Kernel shutdown: 5011cfd0-0ff4-4716-ae5b-c7e57f8cda26
+[I 23:15:28.670 NotebookApp] Kernel shutdown: feca9ad3-3c12-4eed-8fec-a6d6b777eb24
+[I 23:15:29.073 NotebookApp] Kernel shutdown: dd4c2d84-c777-4039-9cd0-560d3225aca6
+[I 23:15:29.477 NotebookApp] Kernel shutdown: aca2ed1f-3cce-436d-9422-c7bd6580c537
+[I 23:22:57.176 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:23:08.020 NotebookApp] Kernel started: 037e071a-46f3-46ff-a5fa-a8bff72a4c61
+[I 23:23:31.702 NotebookApp] Kernel shutdown: 037e071a-46f3-46ff-a5fa-a8bff72a4c61
+[I 23:34:57.806 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:48:57.566 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:50:57.567 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:52:58.437 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 23:53:00.129 NotebookApp] Kernel started: 325ccdc3-7b06-4e0c-a715-1680262501dd
+[I 23:53:46.448 NotebookApp] Kernel shutdown: 325ccdc3-7b06-4e0c-a715-1680262501dd
+[I 00:05:19.001 NotebookApp] Saving file at /Hotel Features [1 Layer].ipynb
+[I 00:06:19.001 NotebookApp] Kernel shutdown: 3a09fa2e-d354-4a34-b59f-7ec40ed12c1a
